@@ -1,0 +1,26 @@
+_repo: The-Leaven-in-a-Great-City_38205
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38205-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Betts, Lillian William
+    alias: Betts, Lillian W.
+    gutenberg_agent_id: '39311'
+    url: http://www.gutenberg.org/2009/agents/39311
+description: ''
+gutenberg_issued: '2011-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social settlements'
+- !lcsh 'Poor -- New York (State) -- New York'
+- !lcc 'HV'
+title: The Leaven in a Great City
+url: http://www.gutenberg.org/ebooks/38205
